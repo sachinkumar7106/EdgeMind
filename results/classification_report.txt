@@ -1,0 +1,18 @@
+EdgeMind - Distilled CNN Classification Report
+
+              precision    recall  f1-score   support
+
+    airplane     0.6090    0.7710    0.6805      1000
+  automobile     0.7520    0.7490    0.7505      1000
+        bird     0.5840    0.4590    0.5140      1000
+         cat     0.4807    0.3730    0.4200      1000
+        deer     0.5432    0.6160    0.5773      1000
+         dog     0.5520    0.4460    0.4934      1000
+        frog     0.5941    0.8210    0.6893      1000
+       horse     0.6937    0.6840    0.6888      1000
+        ship     0.8341    0.6890    0.7547      1000
+       truck     0.6971    0.7250    0.7108      1000
+
+    accuracy                         0.6333     10000
+   macro avg     0.6340    0.6333    0.6279     10000
+weighted avg     0.6340    0.6333    0.6279     10000
